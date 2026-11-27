@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-  ## Name: MIDHUN S 
-  ### Register No: 212224230158
+  ## Name: Adithya M
+  ### Register No: 212224230008
 
 ---
 
@@ -69,7 +69,7 @@ plt.title('Original Image')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="611" height="402" alt="image" src="https://github.com/user-attachments/assets/baf7c955-d3e6-466a-b27e-af2eecbb8741" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/b4aeb745-24e8-4519-af80-6bec641a3af3" />
 
 
 ### Sobel Edge Detector:
@@ -82,7 +82,8 @@ plt.title('Sobel Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="621" height="402" alt="image" src="https://github.com/user-attachments/assets/cc1f99f1-27c5-47ce-90f4-52a021f82214" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/2750422b-1883-4ec4-b771-81ea6e4699ba" />
+
 
 ### Laplacian Edge Detector:
 ```
@@ -92,7 +93,7 @@ plt.title('Laplacian Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="632" height="397" alt="image" src="https://github.com/user-attachments/assets/12eb4245-ec57-4f47-a6fb-d4f6672f2e65" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/2975ca0e-1d1f-4770-be25-e1fd0dedd515" />
 
 
 ### Canny Edge Detector:
@@ -103,7 +104,8 @@ plt.title('Canny Edge Detection')
 plt.axis('off')  
 ```
 ## OUTPUT:
-<img width="617" height="400" alt="image" src="https://github.com/user-attachments/assets/1a320274-519f-407e-a213-18d9b3a66f59" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/92112c75-975a-42a9-9a42-1cc68b3e1170" />
+
 
 ### Prewitt Edge Detector:
 ```
@@ -128,7 +130,8 @@ plt.title('Prewitt Edge Detection')
 plt.axis('off')
 ```
 ## OUTPUT:
-<img width="627" height="392" alt="image" src="https://github.com/user-attachments/assets/c53a0032-003c-4ba0-9374-473e0ca33aa4" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/bff0e863-3255-4ea5-a36f-2aa55e4ee55a" />
+
 
 ## Result
 
